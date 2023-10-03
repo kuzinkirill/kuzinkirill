@@ -2,7 +2,7 @@
 - 👨‍🎓 I’m a smart contract developer
 
 ### Connect with me:
-[<img align="left" alt="kuzinkirill | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/kuzyaaa15)
+[<img align="left" alt="kuzinkirill | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/kuzinikir)
 [<img align="left" alt="kuzinkirill | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kirillkuzini)
 
 <br />
